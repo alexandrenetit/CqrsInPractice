@@ -1,0 +1,8 @@
+C:\Labs\Pluralsight\CqrsInPractice\After\src\Logic\bin\Debug\netcoreapp2.1\Logic.deps.json
+C:\Labs\Pluralsight\CqrsInPractice\After\src\Logic\bin\Debug\netcoreapp2.1\Logic.dll
+C:\Labs\Pluralsight\CqrsInPractice\After\src\Logic\bin\Debug\netcoreapp2.1\Logic.pdb
+C:\Labs\Pluralsight\CqrsInPractice\After\src\Logic\obj\Debug\netcoreapp2.1\Logic.csprojAssemblyReference.cache
+C:\Labs\Pluralsight\CqrsInPractice\After\src\Logic\obj\Debug\netcoreapp2.1\Logic.AssemblyInfoInputs.cache
+C:\Labs\Pluralsight\CqrsInPractice\After\src\Logic\obj\Debug\netcoreapp2.1\Logic.AssemblyInfo.cs
+C:\Labs\Pluralsight\CqrsInPractice\After\src\Logic\obj\Debug\netcoreapp2.1\Logic.dll
+C:\Labs\Pluralsight\CqrsInPractice\After\src\Logic\obj\Debug\netcoreapp2.1\Logic.pdb
